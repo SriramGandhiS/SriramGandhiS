@@ -1,7 +1,5 @@
 # Hi there, I'm Sriram Gandhi! 👋
 
-![Banner](banner.png)
-
 ### 🚀 Full-Stack Developer | AI & Mobile App Enthusiast | CS Student
 
 I'm a passionate developer focused on building scalable, user-centric applications. Whether it's crafting intuitive mobile experiences with **Kotlin & Jetpack Compose** or developing intelligent web platforms with **React and AI**, I love turning complex ideas into functional code.
