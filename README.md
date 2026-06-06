@@ -9,11 +9,6 @@ Full-stack developer with hands-on experience building and deploying web, mobile
 
 ---
 
-### Daily Focus
-* **Activity** &nbsp;&middot;&nbsp; Developing **[Rules of India (ROI)](https://github.com/SriramGandhiS/ROI-THE-LEGAL-APP)** &nbsp;&middot;&nbsp; Daily practice logs in **[Study and Code](https://github.com/SriramGandhiS/Study-and-Code)**
-
----
-
 ### Core Stack
 * **Languages** &nbsp;&middot;&nbsp; Java, JavaScript, Python, SQL
 * **Frontend &amp; Mobile** &nbsp;&middot;&nbsp; React, React Native, Flutter, HTML5, CSS3
