@@ -10,11 +10,11 @@ Full-stack developer with hands-on experience building and deploying web, mobile
 ---
 
 ### Daily Activity &amp; Focus
-* **Today's Focus** &nbsp;&middot;&nbsp; Developing **[Rules of India (ROI)](https://github.com/SriramGandhiS/ROI-THE-LEGAL-APP)** &nbsp;&middot;&nbsp; Solving DSA challenges on LeetCode.
+* **Today's Focus** &nbsp;&middot;&nbsp; Developing **[Rules of India (ROI)](https://github.com/SriramGandhiS/ROI-THE-LEGAL-APP)** &nbsp;&middot;&nbsp; Pushing DSA challenge solutions to **[Study and Code](https://github.com/SriramGandhiS/Study-and-Code)**.
 * **Latest Updates**:
   - Integrated **Groq API** to build the AI Legal Assistant inside ROI.
-  - Solved LeetCode challenges on Arrays &amp; Dynamic Programming (optimizing runtime).
-  - Pushed UI enhancements and simulation modules to the ROI repository.
+  - Pushed daily LeetCode solution logs for Arrays &amp; Dynamic Programming to Study and Code.
+  - Updated UI features and scenario simulations in the ROI repository.
 * **Tech Exploration** &nbsp;&middot;&nbsp; Connecting AI models to mobile app architectures.
 
 ---
