@@ -29,9 +29,10 @@ Full-stack developer with hands-on experience building and deploying web, mobile
   * Designed and built an award-winning gamified legal application featuring interactive scenario simulations that map to contextual Indian Penal Code (IPC) sections.
   * Won ₹15,000 first prize at a 24-Hour National Hackathon, outperforming 30+ teams.
 
-* **Event Registration System – CSE UTSAV 2K26**
+* **[CSE UTSAV 2K26](https://github.com/SriramGandhiS/UTSAV2K26) – Event Management Platform** &nbsp;&middot;&nbsp; [Live App](https://utsav2k26.netlify.app/intro.html)
   *HTML5, CSS3, JavaScript, Google Apps Script*
-  * Developed a serverless registration portal handling 1,500+ active participants with 99.9% uptime under peak traffic load.
+  * Engineered a custom serverless registration portal managing **1,500+ participants** with **99.9% uptime** and zero data loss under peak traffic load.
+  * Reduced invalid submissions by **~80%** through multi-layer frontend validation and automated Google Sheets routing.
 
 ---
 
@@ -45,4 +46,5 @@ Full-stack developer with hands-on experience building and deploying web, mobile
 ---
 
 ### Connect
+
 * [Email](mailto:iamramm8@gmail.com) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/sriram-s-432a99296/) &nbsp;&middot;&nbsp; [Portfolio](https://sriram.website) &nbsp;&middot;&nbsp; [GitHub](https://github.com/SriramGandhiS)
