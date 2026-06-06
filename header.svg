@@ -10,20 +10,18 @@
       <stop offset="100%" stop-color="#070a13" />
     </linearGradient>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;family=Fira+Code:wght@400;500&amp;display=swap');
-      
       .title {
-        font-family: 'Outfit', sans-serif;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         font-weight: 800;
         font-size: 44px;
         fill: url(#textGrad);
         letter-spacing: 4px;
-        animation: textGlow 3s ease-in-out infinite alternate;
+        animation: textOpacity 3s ease-in-out infinite alternate;
       }
       
       .subtitle {
-        font-family: 'Fira Code', monospace;
-        font-size: 15px;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        font-size: 14px;
         fill: #9ca3af;
         opacity: 0;
         animation: fadeIn 2s ease-in-out forwards;
@@ -66,12 +64,12 @@
         }
       }
 
-      @keyframes textGlow {
+      @keyframes textOpacity {
         from {
-          filter: drop-shadow(0 0 2px rgba(0,242,254,0.3));
+          opacity: 0.9;
         }
         to {
-          filter: drop-shadow(0 0 8px rgba(0,242,254,0.7));
+          opacity: 1;
         }
       }
 
@@ -83,12 +81,12 @@
 
       @keyframes pulse {
         0%, 100% { transform: scale(1); opacity: 0.3; }
-        50% { transform: scale(1.4); opacity: 0.6; filter: drop-shadow(0 0 3px #00f2fe); }
+        50% { transform: scale(1.4); opacity: 0.7; }
       }
 
       @keyframes pulse-delayed {
         0%, 100% { transform: scale(1); opacity: 0.2; }
-        50% { transform: scale(1.6); opacity: 0.5; filter: drop-shadow(0 0 5px #4facfe); }
+        50% { transform: scale(1.6); opacity: 0.6; }
       }
 
       @keyframes drawWave {
