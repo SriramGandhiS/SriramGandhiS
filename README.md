@@ -45,4 +45,4 @@ Full-stack developer with hands-on experience building and deploying web, mobile
 ---
 
 ### Connect
-* [Email](mailto:iamramm8@gmail.com) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/sriram-s) &nbsp;&middot;&nbsp; [Portfolio](https://sriramgandhis.github.io/Sriram-Portfolio/) &nbsp;&middot;&nbsp; [GitHub](https://github.com/SriramGandhiS)
+* [Email](mailto:iamramm8@gmail.com) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/sriram-s-432a99296/) &nbsp;&middot;&nbsp; [Portfolio](https://sriram.website) &nbsp;&middot;&nbsp; [GitHub](https://github.com/SriramGandhiS)
