@@ -71,9 +71,9 @@ A high-traffic serverless event management system designed to handle registratio
 ### GitHub Activity &amp; Statistics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/SriramGandhiS?base=header&amp;activity=0&amp;community=0&amp;repositories=0&amp;metadata=0&amp;languages=1&amp;languages.limit=6&amp;config.cache=0&amp;v=9999" alt="Sriram S GitHub Metrics" width="65%" />
+  <img src="https://metrics.lecoq.io/SriramGandhiS?base=header&activity=0&community=0&repositories=0&metadata=0&languages=1&languages.limit=6&config.cache=0&v=1001" alt="Sriram S GitHub Metrics" width="65%" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com?user=SriramGandhiS&amp;theme=tokyonight&amp;hide_border=true&amp;v=9999" alt="Sriram S Contribution Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=SriramGandhiS&theme=tokyonight&hide_border=true&v=1001" alt="Sriram S Contribution Streak" width="60%" />
 </div>
 
 ---
