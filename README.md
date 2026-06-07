@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg?v=1" width="100%" alt="Sriram S - Full Stack &amp; AI Developer Banner" />
+  <img src="header-enhanced.svg" width="100%" alt="Sriram S - Full Stack &amp; AI Developer Banner" />
 </div>
 
 <br />
