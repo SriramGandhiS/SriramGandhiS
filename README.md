@@ -72,11 +72,11 @@ A high-traffic serverless event management system designed to handle registratio
 
 <div align="center">
 
-![Sriram S GitHub Metrics](https://metrics.lecoq.io/SriramGandhiS?base=header&activity=0&community=0&repositories=0&metadata=0&languages=1&languages.limit=6&config.cache=0&v=1002)
+![Sriram S GitHub Metrics](https://metrics.lecoq.io/SriramGandhiS?base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=6&config.cache=0&v=1004)
 
 <br />
 
-![Sriram S Contribution Streak](https://streak-stats.demolab.com?user=SriramGandhiS&theme=tokyonight&hide_border=true&v=1002)
+![Sriram S Contribution Streak](https://streak-stats.demolab.com?user=SriramGandhiS&theme=tokyonight&hide_border=true&v=1004)
 
 </div>
 
