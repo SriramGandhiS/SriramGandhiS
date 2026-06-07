@@ -68,12 +68,16 @@ A high-traffic serverless event management system designed to handle registratio
 
 ---
 
-### GitHub Statistics
+### GitHub Activity &amp; Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriramGandhiS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sriram S GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramGandhiS&layout=compact&theme=tokyonight&hide_border=true" alt="Sriram S Top Languages" />
+  <img src="https://metrics.lecoq.io/SriramGandhiS?template=classic&amp;config.timezone=Asia%2FKolkata" alt="Sriram S GitHub Metrics" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SriramGandhiS&amp;theme=tokyonight&amp;hide_border=true" alt="Sriram S Contribution Streak" />
 </div>
 
 ---
