@@ -12,26 +12,41 @@ I build and **ship** full-stack products — web, mobile, and AI-integrated syst
 
 ## Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td align="right" width="150"><b>Languages</b>&nbsp;&nbsp;&nbsp;</td>
-<td align="left"><img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,kotlin,c&perline=10" height="46" alt="Java, JavaScript, TypeScript, Python, Dart, Kotlin, C" /></td>
+<td align="right" width="160" valign="middle"><b>Languages</b>&nbsp;&nbsp;&nbsp;</td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,kotlin,c&perline=10" height="44" alt="Languages" /><br>
+<sub>Java&nbsp;·&nbsp;JavaScript&nbsp;·&nbsp;TypeScript&nbsp;·&nbsp;Python&nbsp;·&nbsp;Dart&nbsp;·&nbsp;Kotlin&nbsp;·&nbsp;C</sub>
+</td>
 </tr>
 <tr>
-<td align="right"><b>Frontend &amp; Mobile</b>&nbsp;&nbsp;&nbsp;</td>
-<td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind&perline=10" height="46" alt="React, Next.js, Flutter, HTML, CSS, Tailwind" /></td>
+<td align="right" valign="middle"><b>Frontend &amp; Mobile</b>&nbsp;&nbsp;&nbsp;</td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind&perline=10" height="44" alt="Frontend and Mobile" /><br>
+<sub>React&nbsp;·&nbsp;Next.js&nbsp;·&nbsp;Flutter&nbsp;·&nbsp;HTML5&nbsp;·&nbsp;CSS3&nbsp;·&nbsp;Tailwind</sub>
+</td>
 </tr>
 <tr>
-<td align="right"><b>Backend &amp; AI</b>&nbsp;&nbsp;&nbsp;</td>
-<td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask&perline=10" height="46" alt="Node.js, Express, Spring Boot, FastAPI, Flask" /></td>
+<td align="right" valign="middle"><b>Backend &amp; AI</b>&nbsp;&nbsp;&nbsp;</td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask&perline=10" height="44" alt="Backend and AI" /><br>
+<sub>Node.js&nbsp;·&nbsp;Express&nbsp;·&nbsp;Spring Boot&nbsp;·&nbsp;FastAPI&nbsp;·&nbsp;Flask</sub>
+</td>
 </tr>
 <tr>
-<td align="right"><b>Data &amp; Cloud</b>&nbsp;&nbsp;&nbsp;</td>
-<td align="left"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,aws&perline=10" height="46" alt="MySQL, MongoDB, Firebase, SQLite, AWS" /></td>
+<td align="right" valign="middle"><b>Data &amp; Cloud</b>&nbsp;&nbsp;&nbsp;</td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,aws&perline=10" height="44" alt="Data and Cloud" /><br>
+<sub>MySQL&nbsp;·&nbsp;MongoDB&nbsp;·&nbsp;Firebase&nbsp;·&nbsp;SQLite&nbsp;·&nbsp;AWS</sub>
+</td>
 </tr>
 <tr>
-<td align="right"><b>Tools</b>&nbsp;&nbsp;&nbsp;</td>
-<td align="left"><img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&perline=10" height="46" alt="Git, GitHub, Postman, Figma, VS Code" /></td>
+<td align="right" valign="middle"><b>Tools</b>&nbsp;&nbsp;&nbsp;</td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&perline=10" height="44" alt="Tools" /><br>
+<sub>Git&nbsp;·&nbsp;GitHub&nbsp;·&nbsp;Postman&nbsp;·&nbsp;Figma&nbsp;·&nbsp;VS Code</sub>
+</td>
 </tr>
 </table>
 
@@ -45,7 +60,9 @@ I build and **ship** full-stack products — web, mobile, and AI-integrated syst
 
 ### [Rules of India — Legal Tech Platform](https://github.com/SriramGandhiS/ROI-THE-LEGAL-APP)
 
-A cross-platform legal assistant that streamlines legal processes and democratizes legal awareness for citizens, with multilingual AI chat and comparative law maps.
+- Cross-platform legal assistant that democratizes legal awareness for citizens
+- Multilingual AI chat for plain-language legal guidance
+- Comparative transitional law maps across regions
 
 <sub>**Flutter** &nbsp;·&nbsp; **React** &nbsp;·&nbsp; **Firebase** &nbsp;·&nbsp; **Llama 3** &nbsp;·&nbsp; **Gemini Pro**</sub>
 
@@ -57,7 +74,9 @@ A cross-platform legal assistant that streamlines legal processes and democratiz
 
 ### [HireSense — AI Placement Platform](https://github.com/SriramGandhiS/Hiresense.ai)
 
-Helps students navigate the hiring landscape with resume intelligence, keyword matching, and proctored mock interviews backed by real-time speech-to-text transcription.
+- Resume intelligence with keyword matching and gap detection
+- Proctored mock interviews with real-time speech-to-text transcription
+- Actionable insights to help students navigate the hiring landscape
 
 <sub>**React** &nbsp;·&nbsp; **Node.js** &nbsp;·&nbsp; **Express** &nbsp;·&nbsp; **MongoDB** &nbsp;·&nbsp; **Groq API**</sub>
 
@@ -69,7 +88,9 @@ Helps students navigate the hiring landscape with resume intelligence, keyword m
 
 ### [Javino — AI Media Authenticity Engine](https://github.com/SriramGandhiS/Javino-AI-Authenticity)
 
-A production-grade forensic platform that detects AI-generated and manipulated media, combining EXIF forensics, vision-model inspection, and LLM evaluation in a single pipeline.
+- Production-grade forensic platform detecting AI-generated and manipulated media
+- EXIF forensics, vision-model inspection, and LLM evaluation in one pipeline
+- Built for real-time, enterprise-scale authenticity checks
 
 <sub>**Spring Boot** &nbsp;·&nbsp; **Next.js** &nbsp;·&nbsp; **FastAPI** &nbsp;·&nbsp; **MySQL** &nbsp;·&nbsp; **Groq API**</sub>
 
