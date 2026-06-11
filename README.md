@@ -12,102 +12,57 @@ I build and **ship** full-stack products — web, mobile, and AI-integrated syst
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<table>
+<tr>
+<td align="center" width="120"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,js,python,dart" height="44" alt="Java, JavaScript, Python, Dart" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend &amp; Mobile</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind" height="44" alt="React, Flutter, HTML, CSS, Tailwind" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend &amp; AI</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask" height="44" alt="Node.js, Express, Spring Boot, FastAPI, Flask" /></td>
+</tr>
+<tr>
+<td align="center"><b>Data &amp; Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,git" height="44" alt="MySQL, MongoDB, Firebase, AWS, Git" /></td>
+</tr>
+</table>
 
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend, AI & Automation**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+</div>
 
 <br />
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Javino — AI Media Authenticity Engine
+<a href="https://github.com/SriramGandhiS/Javino-AI-Authenticity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=Javino-AI-Authenticity&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="Javino" />
+</a>
+<a href="https://github.com/SriramGandhiS/Hiresense.ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=Hiresense.ai&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="HireSense" />
+</a>
+<a href="https://github.com/SriramGandhiS/ROI-THE-LEGAL-APP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=ROI-THE-LEGAL-APP&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="Rules of India" />
+</a>
+<a href="https://github.com/SriramGandhiS/SmartSlate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=SmartSlate&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="SmartSlate" />
+</a>
+<a href="https://github.com/SriramGandhiS/RailFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=RailFlow&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="RailFlow" />
+</a>
+<a href="https://github.com/SriramGandhiS/smart-ai-resume-analyser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=smart-ai-resume-analyser&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="AI Resume Analyser" />
+</a>
 
-Enterprise-grade forensic platform that authenticates media in real time, combining EXIF metadata forensics, vision-model inspection, and custom LLM evaluation to detect deepfakes.
+</div>
 
-`Spring Boot` · `Next.js` · `FastAPI` · `MySQL` · `Groq API`
-
-</td>
-<td width="50%" valign="top">
-
-### HireSense — AI Mock Interview Platform
-
-Full-stack placement-prep app for resume analysis, keyword extraction, and proctored mock interviews with real-time speech-to-text transcription.
-
-`React` · `Node.js` · `Express` · `MongoDB` · `Groq API` · `Chart.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Rules of India — Legal Learning Platform
-
-Cross-platform legal assistant democratizing legal awareness for Indian citizens, with multilingual chat and comparative transitional law maps.
-
-`Flutter` · `React` · `Firebase` · `Llama 3` · `Gemini Pro`
-
-</td>
-<td width="50%" valign="top">
-
-### SmartSlate — Face Recognition Attendance
-
-AI biometric attendance using OpenCV and LBPH for sub-second, frictionless edge logging synced to a global cloud database.
-
-`Python` · `Flask` · `OpenCV` · `SQLite` · `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### CSE UTSAV 2K26 — Event Platform
-
-High-traffic serverless system handling registration workflows for **1,500+ students** at 99.9% uptime.
-
-`HTML5` · `CSS3` · `JavaScript` · `Apps Script`
-
-</td>
-<td width="50%" valign="top">
-
-### Portfolio — Personal Website
-
-My work, projects, and writing, all in one place.
-
-[**sriram.website**](https://sriram.website)
-
-</td>
-</tr>
-</table>
+<p align="center"><a href="https://github.com/SriramGandhiS?tab=repositories"><b>→ Browse all repositories</b></a></p>
 
 <br />
 
