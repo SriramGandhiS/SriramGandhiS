@@ -14,24 +14,31 @@ I build and **ship** full-stack products — web, mobile, and AI-integrated syst
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="120"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,js,python,dart" height="44" alt="Java, JavaScript, Python, Dart" /></td>
-</tr>
-<tr>
-<td align="center"><b>Frontend &amp; Mobile</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind" height="44" alt="React, Flutter, HTML, CSS, Tailwind" /></td>
-</tr>
-<tr>
-<td align="center"><b>Backend &amp; AI</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask" height="44" alt="Node.js, Express, Spring Boot, FastAPI, Flask" /></td>
-</tr>
-<tr>
-<td align="center"><b>Data &amp; Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,git" height="44" alt="MySQL, MongoDB, Firebase, AWS, Git" /></td>
-</tr>
-</table>
+<br>
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,kotlin,c&perline=7" height="68" alt="Java, JavaScript, TypeScript, Python, Dart, Kotlin, C" />
+
+<br><br>
+
+**FRONTEND&nbsp;&nbsp;&amp;&nbsp;&nbsp;MOBILE**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind&perline=6" height="68" alt="React, Next.js, Flutter, HTML, CSS, Tailwind" />
+
+<br><br>
+
+**BACKEND&nbsp;&nbsp;&amp;&nbsp;&nbsp;AI**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask&perline=5" height="68" alt="Node.js, Express, Spring Boot, FastAPI, Flask" />
+
+<br><br>
+
+**DATA,&nbsp;&nbsp;CLOUD&nbsp;&nbsp;&amp;&nbsp;&nbsp;TOOLS**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,aws,git,github,postman,vscode&perline=9" height="68" alt="MySQL, MongoDB, Firebase, SQLite, AWS, Git, GitHub, Postman, VS Code" />
+
+<br>
 
 </div>
 
@@ -41,28 +48,50 @@ I build and **ship** full-stack products — web, mobile, and AI-integrated syst
 
 <div align="center">
 
+<table border="0" cellspacing="0" cellpadding="14">
+<tr>
+<td valign="top">
 <a href="https://github.com/SriramGandhiS/Javino-AI-Authenticity">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=Javino-AI-Authenticity&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="Javino" />
 </a>
+</td>
+<td valign="top">
 <a href="https://github.com/SriramGandhiS/Hiresense.ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=Hiresense.ai&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="HireSense" />
 </a>
+</td>
+</tr>
+<tr>
+<td valign="top">
 <a href="https://github.com/SriramGandhiS/ROI-THE-LEGAL-APP">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=ROI-THE-LEGAL-APP&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="Rules of India" />
 </a>
+</td>
+<td valign="top">
 <a href="https://github.com/SriramGandhiS/SmartSlate">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=SmartSlate&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="SmartSlate" />
 </a>
+</td>
+</tr>
+<tr>
+<td valign="top">
 <a href="https://github.com/SriramGandhiS/RailFlow">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=RailFlow&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="RailFlow" />
 </a>
+</td>
+<td valign="top">
 <a href="https://github.com/SriramGandhiS/smart-ai-resume-analyser">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SriramGandhiS&repo=smart-ai-resume-analyser&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="AI Resume Analyser" />
 </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/SriramGandhiS?tab=repositories"><b>→ Browse all repositories</b></a>
 
 </div>
-
-<p align="center"><a href="https://github.com/SriramGandhiS?tab=repositories"><b>→ Browse all repositories</b></a></p>
 
 <br />
 
