@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header-cinematic.svg" width="100%" alt="Sriram S — Full-Stack & AI Integration Engineer" />
+  <img src="header-landscape.svg" width="100%" alt="Sriram S — Full-Stack & AI Integration Engineer" />
 </div>
 
 <div align="center">
@@ -161,16 +161,6 @@ My work, projects, and writing, all in one place.
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SriramGandhiS&bg_color=04060d&color=00d4ff&line=3b7dff&point=ffffff&area=true&area_color=3b7dff&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-
-</div>
-
-<br />
-
-## Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SriramGandhiS&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&title_color=00d4ff)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
