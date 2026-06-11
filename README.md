@@ -4,8 +4,6 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SriramGandhiS&label=Profile%20Views&color=00d4ff&style=flat-square)](https://github.com/SriramGandhiS)
-[![Followers](https://img.shields.io/github/followers/SriramGandhiS?label=Followers&style=flat-square&color=3b7dff)](https://github.com/SriramGandhiS?tab=followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sriram.website-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://sriram.website)
 
 </div>
