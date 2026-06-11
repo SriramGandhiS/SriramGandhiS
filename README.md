@@ -2,30 +2,11 @@
   <img src="header-landscape.svg" width="100%" alt="Sriram S — Full-Stack & AI Integration Engineer" />
 </div>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sriram.website-00d4ff?style=flat-square&logo=google-chrome&logoColor=white)](https://sriram.website)
-
-</div>
-
 <br />
 
 ## About
 
 I build and **ship** full-stack products — web, mobile, and AI-integrated systems that run in production, not just demos. My work spans REST API design, NLP/LLM integration, and mobile-first development, backed by a track record of live systems and measurable impact on performance and reliability.
-
-```typescript
-const sriram = {
-  role:       "Full-Stack & AI Integration Engineer",
-  location:   "Tamil Nadu, India",
-  education:  "B.E. Computer Science — PSNA College  (Class of 2027)",
-  focus:      ["Web", "Mobile", "AI-Integrated Systems"],
-  shipped:    "Production apps serving 1,500+ users",
-  recognition:"National Hackathon Winner",
-  building:   "Forensic AI + placement-prep platforms",
-  philosophy: "Design it clean, ship it fast, scale it right.",
-};
-```
 
 <br />
 
