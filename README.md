@@ -6,7 +6,7 @@
 
 ## About
 
-I build and **ship** full-stack products — web, mobile, and AI-integrated systems that run in production, not just demos. My work spans REST API design, NLP/LLM integration, and mobile-first development, backed by a track record of live systems and measurable impact on performance and reliability.
+Final-year CS student. I enjoy building things, exploring new technology, and learning through experimentation. Most of my projects begin with a simple question: “Can I make this work?”
 
 <br />
 
