@@ -115,8 +115,8 @@ Final-year CS student. I enjoy building things, exploring new technology, and le
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight.vercel.app/api?username=SriramGandhiS&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=SriramGandhiS&layout=compact&langs_count=8&hide_border=true&title_color=00d4ff&text_color=9fb2c9&bg_color=04060d" alt="Top Languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=SriramGandhiS&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=3b7dff&text_color=9fb2c9&bg_color=04060d" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SriramGandhiS&layout=compact&langs_count=8&hide_border=true&title_color=00d4ff&text_color=9fb2c9&bg_color=04060d" alt="Top Languages" />
 
 <br /><br />
 
